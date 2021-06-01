@@ -1,0 +1,23 @@
+{
+  "name": "nosqljs",
+  "version": "1.0.0",
+  "description": "in-memory rest database",
+  "main": "nosql-server.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha",
+    "start": "node ./server/nosql-server.js"
+  },
+  "author": "Carlos Jafet Neto",
+  "license": "MIT",
+  "engines": {
+    "node": "10.15.2",
+    "npm": "6.6.0"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.3",
+    "mocha": "^8.3.1"
+  }
+}

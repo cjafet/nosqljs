@@ -1,0 +1,7 @@
+{
+    "tables" : ["Product"],
+    "logPath" : "/log/logs.txt",
+    "dbPath" : "/db/db.json",
+    "noSqlPath" : "/service/nosql-service.js",
+    "mysql" : true
+}

@@ -1,0 +1,1 @@
+exports.base_dir = __dirname;
