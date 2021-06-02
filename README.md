@@ -7,7 +7,7 @@
 - Persistence to a json file
 - Middleware
 - Logs
-- Relational database support for data aggregation and update in mysql. More to come.
+- Relational database support for data aggregation and update in [MySQL](https://www.mysql.com/). More to come.
 
 # Read this Blog Post to learn more
 [Meet NoSQL.js an in-memory database through REST API](https://daillyresource.blogspot.com/2021/06/meet-nosqljs-in-memory-database-through.html)
